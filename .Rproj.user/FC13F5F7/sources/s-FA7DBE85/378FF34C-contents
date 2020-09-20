@@ -1,0 +1,13 @@
+Package: singleRNA
+Type: Package
+Title: Tools for Single Cell Genomics
+Version: 0.1.0
+Authors@R: c(
+  person(given = "Tao", family = "Chen", email = "hmcctt@163.com", role = c("aut", cre))
+)
+Maintainer: BioLab
+Description: A toolkit for analysis singcle cell RNA-seq
+License: GPL-3 | file LICENSE
+Encoding: UTF-8
+LazyData: true
+Imports: ggplot2 (>= 3.0.0), ggrepel, Seurat (>= 3.2.0), EGSEA, magrittr

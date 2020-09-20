@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1599013825611.000,
+    "dirty" : true,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "F82FAA30",
+    "lastKnownWriteTime" : 1599035052,
+    "last_content_update" : 1599038374479,
+    "path" : "D:/mywork/singleRNA/R/generics.R",
+    "project_path" : "R/generics.R",
+    "properties" : {
+        "cursorPosition" : "50,64",
+        "scrollLine" : "24",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 4,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

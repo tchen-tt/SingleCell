@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1599014723696.000,
+    "dirty" : true,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "4E95C4C7",
+    "lastKnownWriteTime" : 1599033860,
+    "last_content_update" : 1599038828000,
+    "path" : "D:/mywork/singleRNA/R/objects.R",
+    "project_path" : "R/objects.R",
+    "properties" : {
+        "cursorPosition" : "157,0",
+        "scrollLine" : "124",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 5,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

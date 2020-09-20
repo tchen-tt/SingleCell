@@ -1,0 +1,16 @@
+Package: singleRNA
+Title: Tools for Single Cell Genomics
+Version: 0.1.0
+Date: 2020-9-2
+Maintainer: BioLab
+Description: A toolkit for analysis singcle cell RNA-seq.
+License: GPL-3
+Encoding: UTF-8
+LazyData: true
+Imports: ggplot2 (>= 3.0.0), ggrepel, Seurat (>= 3.2.0), EGSEA, magrittr
+RoxygenNote: 7.1.1
+Collate: 
+    'combine_multiple_data.R'
+    'generics.R'
+    'hello.R'
+    'objects.R'
