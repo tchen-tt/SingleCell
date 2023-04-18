@@ -81,7 +81,7 @@ merged.DataSheet <- function(object, ...) {
   if (length(single) == 1L) {
     return(single[[1L]])
   } else {
-    single <- merge(x = single[[1L]], y = single[[-1L]], add.cell.ids = object@sample.name)
+    single <- merge(x = single[[1L]], y = single[-1L], add.cell.ids = object@sample.name)
   }
   return(single)
 }
